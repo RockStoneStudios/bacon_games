@@ -19,6 +19,8 @@ dotnet restore
 
 
 
+
+
 ## Iniciar la aplicación:
 
 desde el root : dotnet run --project Challenge 
@@ -32,6 +34,7 @@ La aplicación debería iniciarse en https://localhost:5001 o http://localhost:5
 
 Email: omar@gmail.com
 Contraseña: 12345678
+una ves logueado el token agregalo al authorized como Bearer eyak40a9os....p68s5
 
 <img width="1297" height="596" alt="image" src="https://github.com/user-attachments/assets/ef61a7dd-c9f5-4d2b-b114-267da0bfcc7f" />
 
@@ -44,6 +47,8 @@ Para ejecutar los tests unitarios:
 
 desde el root ejecuta 
 dotnet test 
+
+(Los endpoints de buscar pokemon por id y por nombre no estan protegidos los protegidos son el de agregar un nuevo pokemon y el inventario como pedia el desafio)
 
 
 
