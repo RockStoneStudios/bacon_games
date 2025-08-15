@@ -34,7 +34,8 @@ La aplicación debería iniciarse en https://localhost:5001 o http://localhost:5
 
 Email: omar@gmail.com
 Contraseña: 12345678
-una ves logueado el token agregalo al authorized como Bearer eyak40a9os....p68s5
+una ves logueado el token agregalo al authorized ejemplo como Bearer eyak40a9os....p68s5    
+#### formato [Bearer Token]
 
 <img width="1297" height="596" alt="image" src="https://github.com/user-attachments/assets/ef61a7dd-c9f5-4d2b-b114-267da0bfcc7f" />
 
