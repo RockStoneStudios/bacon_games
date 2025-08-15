@@ -1,0 +1,41 @@
+# .gitignore para proyecto .NET (API, JWT, C#)
+
+## Archivos de IDE/Editor
+.vs/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.vscode/
+
+## Build y dependencias
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.dotCover
+
+## Paquetes NuGet
+packages/
+*.nupkg
+.nuget/
+
+## Configuración local
+appsettings.Development.json
+appsettings.Local.json
+*.secrets.json
+
+## Logs y temp
+logs/
+*.log
+*.tmp
+
+## Otros
+.DS_Store
+*.swp
+*.sublime-workspace
+
+# Azure Functions
+azure-functions-cli/
