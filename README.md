@@ -10,7 +10,7 @@ IDE de preferencia (Visual Studio, VS Code, Rider, etc.)
 Git (opcional, si se clona el repositorio)
 
 git clone https://github.com/RockStoneStudios/bacon_games.git
-cd Challenge
+
 
 ### Restaurar dependencias:
 
