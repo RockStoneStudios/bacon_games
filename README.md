@@ -15,7 +15,7 @@ git clone https://github.com/RockStoneStudios/bacon_games.git
 ### Restaurar dependencias:
 
 desde el root Became Games en consola
-dotnet restore
+#### dotnet restore
 
 
 
